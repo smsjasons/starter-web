@@ -6,6 +6,8 @@ This is a sample web project for practicing how to use Git and Github.
 
 ## Introduction
 
+This is example is show different parts of Git.
+
 ## Purpose
 
 ## Deployment
